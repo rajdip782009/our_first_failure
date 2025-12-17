@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "educational-bot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyrogram = "^2.0.0"
+# Add others from requirements.txt
